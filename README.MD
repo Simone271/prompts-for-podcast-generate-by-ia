@@ -46,7 +46,6 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 - O Roteiro foi feito pelo ChatGPT
 - O Audio foi gerado pela elevenLabs
 - Gencraft Para gerar a capa
-- Capcut para tratar aúdio e adicionar sons de fundo
 
 
 
