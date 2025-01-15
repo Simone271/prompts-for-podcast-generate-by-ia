@@ -38,15 +38,14 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [GENCRAFT](https://gencraft.com/generate)
 - [ElevenLabs](https://beta.elevenlabs.io/)
-- [Capcut](https://www.capcut.com/pt-br/)
 
 ## ✨ Como foi feito ?
 
-- Roteiro gerado via chatgpt
-- Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
+- O Roteiro foi feito pelo ChatGPT
+- O Audio foi gerado pela elevenLabs
+- Gencraft Para gerar a capa
 - Capcut para tratar aúdio e adicionar sons de fundo
 
 ## 📚 Materiais
